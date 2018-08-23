@@ -7,7 +7,7 @@ setup(
     author='Maxim Oransky',
     author_email='maxim.oransky@gmail.com',
     description="Django model and form fields that performs URL normalization. For example it adds 'http://' prefix and forces punicode encoding.",
-    long_description=open('README.rst').read(),
+    long_description="Django model and form fields that performs URL normalization. For example it adds 'http://' prefix and forces punicode encoding.",
     url='https://github.com/shantilabs/django-smarturlfield',
     packages=[
         'smarturlfield'
